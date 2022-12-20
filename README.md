@@ -10,4 +10,10 @@ python3 counter.py
 python3 km_counts_process.py
 
 
-+ Step 3. Train and Test 
++ Step 3. Train and Test "Prediction MIC"
+
+python3 prediction_MIC.py
+
++ Step 4. Train and Test "Resistance Prediction":
+
+python3 resistance_prediction_model.py
