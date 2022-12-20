@@ -16,4 +16,4 @@ python3 prediction_MIC.py
 
 + Step 4. Train and Test "Resistance Prediction":
 
-python3 resistance_prediction_model.py
+python3 resistance_prediction.py
