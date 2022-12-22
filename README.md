@@ -1,6 +1,6 @@
 # eMIC-AntiKP: Estimating Minimum Inhibitory Concentrations of Antibiotics towards Klebsiella Pneumoniae using Deep Learning
 
-+ Step 1. Download dataset
++ Step 1. Download dataset:
 
 python3 download_data.py
 
